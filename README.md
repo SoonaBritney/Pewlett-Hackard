@@ -25,10 +25,11 @@ Step2:
 The unique_titles table holds distintive 90,398 employees with 90,398 titles, since we removed the multiple titles of each employee, and only collected the latest titles.    
 (unique_titles.csv)
 
-Step 3:
+Step3: 
 Once the unique titles table is created, we like to count the each job title using Group By techniques.
 The total title for retiring employees is 90,398:
 The final table that has the number of retirement-age employees by most recent job title is as below.
+
 (retiring_titles.csv)
 ==============================================
 # of retiring employees    Title
