@@ -1,8 +1,5 @@
 # Pewlett-Hackard
-<<<<<<< HEAD
-=======
-# Pewlett-Hackard
->>>>>>> 5c70fea7e87192533153dc1bb70758c1d70025e1
+
 
 1. Purpose of the Pewlett-Hackard Project
 
