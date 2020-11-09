@@ -1,6 +1,5 @@
 # Pewlett-Hackard
 
-
 1. Purpose of the Pewlett-Hackard Project
 
 The purpose of the project is Analysisng the PHEmployee Database by utilizng SQL query to determine 
@@ -75,7 +74,7 @@ TOTAL                    90,398
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 Here are the number of eligiable employees to be trained per department to fill the positions:
-()
+
 ======================================================
 # of eligible employees to be trained       dept_no
 ======================================================
@@ -201,8 +200,4 @@ d009	Customer Service	Technique Leader	77
 ============================================================================
 
 The conclusion is again, there are enough qualified, retirement-ready employees in the departments to train the next generation of Pewlett Hackard employees.
-<<<<<<< HEAD
 So, HR does not have to worry about the knowledge transfer before the  “silver tsunami” happens.  
-=======
-So, HR does not have to worry about the knowledge transfer before the  “silver tsunami” happens.  
->>>>>>> 5c70fea7e87192533153dc1bb70758c1d70025e1
