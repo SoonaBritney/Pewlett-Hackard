@@ -1,0 +1,37 @@
+dept_no,dept_name,title,Mentees Count
+d001,Marketing,Senior Staff,140
+d001,Marketing,Staff,139
+d002,Finance,Senior Staff,85
+d002,Finance,Staff,89
+d003,Human Resources,Senior Staff,114
+d003,Human Resources,Staff,121
+d004,Production,Assistant Engineer,45
+d004,Production,Engineer,320
+d004,Production,Senior Engineer,312
+d004,Production,Senior Staff,12
+d004,Production,Staff,16
+d004,Production,Technique Leader,48
+d005,Development,Assistant Engineer,55
+d005,Development,Engineer,393
+d005,Development,Senior Engineer,337
+d005,Development,Senior Staff,18
+d005,Development,Staff,24
+d005,Development,Technique Leader,48
+d006,Quality Management,Assistant Engineer,15
+d006,Quality Management,Engineer,96
+d006,Quality Management,Senior Engineer,100
+d006,Quality Management,Technique Leader,14
+d007,Sales,Senior Staff,262
+d007,Sales,Staff,291
+d008,Research,Assistant Engineer,2
+d008,Research,Engineer,40
+d008,Research,Senior Engineer,32
+d008,Research,Senior Staff,88
+d008,Research,Staff,111
+d008,Research,Technique Leader,4
+d009,Customer Service,Assistant Engineer,2
+d009,Customer Service,Engineer,26
+d009,Customer Service,Senior Engineer,24
+d009,Customer Service,Senior Staff,118
+d009,Customer Service,Staff,136
+d009,Customer Service,Technique Leader,6

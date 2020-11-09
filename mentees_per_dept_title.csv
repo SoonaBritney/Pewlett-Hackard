@@ -1,0 +1,37 @@
+dept_no,title,mentees
+d001,Senior Staff,140
+d001,Staff,139
+d002,Senior Staff,85
+d002,Staff,89
+d003,Senior Staff,114
+d003,Staff,121
+d004,Assistant Engineer,45
+d004,Engineer,320
+d004,Senior Engineer,312
+d004,Senior Staff,12
+d004,Staff,16
+d004,Technique Leader,48
+d005,Assistant Engineer,55
+d005,Engineer,393
+d005,Senior Engineer,337
+d005,Senior Staff,18
+d005,Staff,24
+d005,Technique Leader,48
+d006,Assistant Engineer,15
+d006,Engineer,96
+d006,Senior Engineer,100
+d006,Technique Leader,14
+d007,Senior Staff,262
+d007,Staff,291
+d008,Assistant Engineer,2
+d008,Engineer,40
+d008,Senior Engineer,32
+d008,Senior Staff,88
+d008,Staff,111
+d008,Technique Leader,4
+d009,Assistant Engineer,2
+d009,Engineer,26
+d009,Senior Engineer,24
+d009,Senior Staff,118
+d009,Staff,136
+d009,Technique Leader,6

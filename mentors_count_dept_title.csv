@@ -1,0 +1,39 @@
+dept_no,dept_name,title,count
+d001,Marketing,Senior Staff,4200
+d001,Marketing,Staff,1847
+d002,Finance,Senior Staff,3696
+d002,Finance,Staff,1562
+d003,Human Resources,Senior Staff,3744
+d003,Human Resources,Staff,1695
+d004,Production,Assistant Engineer,746
+d004,Production,Engineer,6111
+d004,Production,Senior Engineer,12767
+d004,Production,Senior Staff,437
+d004,Production,Staff,154
+d004,Production,Technique Leader,1984
+d005,Development,Assistant Engineer,889
+d005,Development,Engineer,7187
+d005,Development,Senior Engineer,14730
+d005,Development,Senior Staff,376
+d005,Development,Staff,194
+d005,Development,Technique Leader,2252
+d006,Quality Management,Assistant Engineer,230
+d006,Quality Management,Engineer,1752
+d006,Quality Management,Senior Engineer,3603
+d006,Quality Management,Technique Leader,551
+d007,Sales,Manager,1
+d007,Sales,Senior Staff,10930
+d007,Sales,Staff,4768
+d008,Research,Assistant Engineer,32
+d008,Research,Engineer,376
+d008,Research,Manager,1
+d008,Research,Senior Engineer,759
+d008,Research,Senior Staff,3635
+d008,Research,Staff,1521
+d008,Research,Technique Leader,112
+d009,Customer Service,Assistant Engineer,34
+d009,Customer Service,Engineer,296
+d009,Customer Service,Senior Engineer,611
+d009,Customer Service,Senior Staff,4265
+d009,Customer Service,Staff,1866
+d009,Customer Service,Technique Leader,77
