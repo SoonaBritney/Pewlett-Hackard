@@ -1,7 +1,5 @@
 # Pewlett-Hackard
 
-# Pewlett-Hackard
-
 1. Purpose of the Pewlett-Hackard Project
 
 The purpose of the project is Analysisng the PHEmployee Database by utilizng SQL query to determine 
