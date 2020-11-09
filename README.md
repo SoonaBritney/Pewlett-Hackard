@@ -1,4 +1,8 @@
 # Pewlett-Hackard
+<<<<<<< HEAD
+=======
+# Pewlett-Hackard
+>>>>>>> 5c70fea7e87192533153dc1bb70758c1d70025e1
 
 1. Purpose of the Pewlett-Hackard Project
 
@@ -200,4 +204,8 @@ d009	Customer Service	Technique Leader	77
 ============================================================================
 
 The conclusion is again, there are enough qualified, retirement-ready employees in the departments to train the next generation of Pewlett Hackard employees.
+<<<<<<< HEAD
 So, HR does not have to worry about the knowledge transfer before the  “silver tsunami” happens.  
+=======
+So, HR does not have to worry about the knowledge transfer before the  “silver tsunami” happens.  
+>>>>>>> 5c70fea7e87192533153dc1bb70758c1d70025e1
