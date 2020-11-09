@@ -1,5 +1,7 @@
 # Pewlett-Hackard
 
+# Pewlett-Hackard
+
 1. Purpose of the Pewlett-Hackard Project
 
 The purpose of the project is Analysisng the PHEmployee Database by utilizng SQL query to determine 
@@ -74,7 +76,7 @@ TOTAL                    90,398
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 Here are the number of eligiable employees to be trained per department to fill the positions:
-
+()
 ======================================================
 # of eligible employees to be trained       dept_no
 ======================================================
